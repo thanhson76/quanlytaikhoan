@@ -1,0 +1,5 @@
+{
+  "name": "Trình quản lý mật khẩu an toàn",
+  "description": "Một ứng dụng quản lý tài khoản an toàn để lưu trữ và quản lý tập trung tất cả thông tin đăng nhập quan trọng của bạn, được xây dựng với nguyên tắc bảo mật Zero-Knowledge.",
+  "requestFramePermissions": []
+}
